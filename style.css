@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    color: aquamarine;
+}
+
+header {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+    border-bottom: 6px solid rgb(158, 192, 178);
+}
+
+main {
+    background-color: aliceblue;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.artigo {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 40px;
+}
+
+img {
+    width: 140px;
+    height: 140px;
+}
+
+.artigo-autor {
+    font-weight: bold;
+}
