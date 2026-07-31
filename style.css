@@ -50,7 +50,7 @@ h2 {
 button {
     margin-top: 15px;
     padding: 10px 18px;
-    background-color: rgb(57, 189, 151);
+    background-color:rgb(76, 151, 130);
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -58,7 +58,7 @@ button {
 }
 
 button:hover {
-    background-color:rgb(45, 59, 55);
+    background-color:rgb(25, 85, 67);
     color:azure
 }
 
